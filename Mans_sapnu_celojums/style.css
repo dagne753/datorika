@@ -3,25 +3,26 @@ body {
     line-height: 1.6;
     margin: 0;
     padding: 0;
-    background-color: #f4f4f4;
+    background-color: #fce3e3;
     color: #333;
     }
     header {
-    background-color: #7272a8;
+    background-color: #e4b6cf;
     color: white;
     text-align: center;
     padding: 1rem;
     }
     h2 {
-    color: #42035d;
+    color: #2c262f;
     text-align: center;
-    }
-    nav {
-    background-color: #6a6a8a;
-    padding: 1rem;
-    display: flex;
-    justify-content: center;
-    } 
+}
+nav {
+background-color: #e2c1ea;
+padding: 1rem;
+display: flex;
+justify-content: center;
+} 
+    
     .saturs {
         width: 80%;
         margin: auto;
@@ -33,20 +34,36 @@ body {
         flex-wrap: wrap;
         justify-content: space-between;
         }
-        .galamērķis {
-        background-color: white;
+        .produkts {
+        background-color: rgb(201, 124, 124);
         border: 1px solid #ddd;
         padding: 15px;
         margin-bottom: 20px;
         width: 30%;
         text-align: center;
         }
+        .produkts {
+            background-color: rgb(225, 142, 142);
+            border: 1px solid #ddd;
+            padding: 15px;
+            margin-bottom: 20px;
+            width: 30%;
+            text-align: center;
+            }
+            .produkts {
+                background-color: rgb(162, 145, 160);
+                border: 1px solid #ddd;
+                padding: 15px;
+                margin-bottom: 20px;
+                width: 30%;
+                text-align: center;
+                }
         img {
         max-width: 100%;
         height: 200px;
         }
         footer {
-        background-color: #4a4a6a;
+        background-color: #d1d1e8;
         color: white;
         text-align: center;
         padding: 1rem;
@@ -55,7 +72,7 @@ body {
         width: 100%;
         } 
         nav {
-            background-color: #6a6a8a;
+            background-color: #d1c3d3;
             padding: 1rem;
             display: flex;
             justify-content: center;
@@ -66,5 +83,5 @@ body {
             padding: 0.5rem 1rem;
             }
             nav a:hover {
-            background-color: #8a8aaa;
+            background-color: #ebc6f6de;
             } 
