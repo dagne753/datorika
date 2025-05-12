@@ -19,7 +19,7 @@ body {
 nav {
 background-color: #e2c1ea;
 padding: 1rem;
-display: flex;
+display: inline-block;
 justify-content: center;
 } 
     
@@ -30,26 +30,10 @@ justify-content: center;
         padding: 20px;
         }
         .ceļojuma {
-        display: flex;
+        display:inline-block;
         flex-wrap: wrap;
         justify-content: space-between;
         }
-        .produkts {
-        background-color: rgb(201, 124, 124);
-        border: 1px solid #ddd;
-        padding: 15px;
-        margin-bottom: 20px;
-        width: 30%;
-        text-align: center;
-        }
-        .produkts {
-            background-color: rgb(225, 142, 142);
-            border: 1px solid #ddd;
-            padding: 15px;
-            margin-bottom: 20px;
-            width: 30%;
-            text-align: center;
-            }
             .produkts {
                 background-color: rgb(162, 145, 160);
                 border: 1px solid #ddd;
